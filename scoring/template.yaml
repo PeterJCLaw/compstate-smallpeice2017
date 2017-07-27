@@ -5,7 +5,9 @@ teams:
     zone: 0
     disqualified: false
     present: true
+    events: ''
   TLA2:
     zone: 1
     disqualified: false
     present: true
+    events: ''
