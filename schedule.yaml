@@ -62,19 +62,19 @@ static_knockout:
       0:
         arena: main
         start_time: 2017-08-04 13:08:00 +1
-        teams: [S1, '010']
+        teams: [S2, '000']
       1:
         arena: main
         start_time: 2017-08-04 13:12:00 +1
-        teams: [S4, S5]
+        teams: [S3, S6]
       2:
         arena: main
         start_time: 2017-08-04 13:16:00 +1
-        teams: [S3, S6]
+        teams: [S4, S5]
       3:
         arena: main
         start_time: 2017-08-04 13:20:00 +1
-        teams: [S2, '000']
+        teams: [S1, '010']
     2:
       0:
         arena: main
@@ -82,10 +82,10 @@ static_knockout:
         teams: ['100', '110']
       1:
         arena: main
-        start_time: 2017-08-04 13:36:00 +1
+        start_time: 2017-08-04 13:38:00 +1
         teams: ['120', '130']
     3:
       0:
         arena: main
-        start_time: 2017-08-04 13:48:00 +1
+        start_time: 2017-08-04 13:50:00 +1
         teams: ['200', '210']
