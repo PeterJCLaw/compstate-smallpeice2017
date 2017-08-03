@@ -26,14 +26,14 @@ delays: []
 #
 match_periods:
   league:
-    - start_time: 2017-08-02 19:25:00 +1
-      end_time: 2017-08-02 22:15:00 +1
-      max_end_time: 2017-08-02 22:30:00 +1
+    - start_time: 2017-08-04 10:45:00 +1
+      end_time: 2017-08-04 12:15:00 +1
+      max_end_time: 2017-08-04 12:30:00 +1
       description: League
 #
   knockout:
-    - start_time: 2017-08-02 20:15:00 +1
-      end_time: 2017-08-02 22:00:00 +1
+    - start_time: 2017-08-04 12:45:00 +1
+      end_time: 2017-08-04 14:00:00 +1
       description: Knockout
 #
 # Five minutes after the final, allows for rotating and possible delays
