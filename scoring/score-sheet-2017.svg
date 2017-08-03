@@ -23,29 +23,14 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="marker15501"
+       id="marker15651"
        style="overflow:visible;"
        inkscape:isstock="true">
       <path
-         id="path15503"
+         id="path15653"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="marker15387"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path15389" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
@@ -954,36 +939,36 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="113.13452"
+       x="58.900101"
        y="223.43768"
        id="text3412-5-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="113.13452"
+         x="58.900101"
          y="223.43768"
          id="tspan3497-4-0">Match Number: _______</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="58.118896"
-       y="317.05457"
+       y="279.05457"
        id="text3412-5-0-0-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="58.118896"
-         y="317.05457"
+         y="279.05457"
          id="tspan3497-4-0-6-3">Scorer (print name): ___________________________</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="105.42358"
-       y="271.30652"
+       x="380.58502"
+       y="222.34227"
        id="text3412-5-0-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="105.42358"
-         y="271.30652"
-         id="tspan3599">Starting Corner: _______________</tspan></text>
+         x="380.58502"
+         y="222.34227"
+         id="tspan3599">Starting Corner: _______</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1017,7 +1002,7 @@
          style="font-size:22.5px">    D - the robot dropped a token</tspan></text>
     <g
        id="g4653"
-       transform="translate(4,234)">
+       transform="translate(4,114)">
       <rect
          y="267.11624"
          x="28.950819"
@@ -1040,12 +1025,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text3412-5-0-0-7-3-5"
-       y="528.45154"
+       y="408.45154"
        x="392.4924"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan3497-4-0-6-3-0-8"
-         y="528.45154"
+         y="408.45154"
          x="392.4924"
          sodipodi:role="line"
          style="font-size:17.5px">BLOCK CAPITALS - One letter per box</tspan></text>
@@ -2034,37 +2019,37 @@ oAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAP/9k=
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="41.972412"
-       y="378.92191"
+       y="336.92191"
        id="text3412-5-0-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="41.972412"
-         y="378.92191"
+         y="336.92191"
          id="tspan3497-4-0-6-6">Team ID (from robot): _______</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3416"
-       y="431.39459"
-       x="335.42944"
+       y="319.30463"
+       x="646.76031"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:Eurostile;-inkscape-font-specification:'Eurostile Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="431.39459"
-         x="335.42944"
+         y="319.30463"
+         x="646.76031"
          id="tspan3418"
          sodipodi:role="line">Present: ▢</tspan><tspan
-         y="466.47879"
-         x="335.42944"
+         y="354.38882"
+         x="646.76031"
          sodipodi:role="line"
          id="tspan3603">Disqualified: ▢</tspan></text>
     <g
        id="g26427"
-       transform="translate(8.4433142,-24)">
+       transform="translate(8.4433142,-140)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="path6866"
-         d="m 692.20359,592.85628 16.51227,0 -0.0197,40.8132 -698.196722,1.04917 0.640184,41.90489 20.408997,0.19347"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15501)" />
+         d="m 692.20359,592.85628 16.51227,0 -0.0197,36.8132 -698.196722,1.04917 0.640184,37.90489 20.408997,0.19347"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15651)" />
       <g
          id="g24430">
         <rect
@@ -2162,7 +2147,7 @@ oAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAP/9k=
        y="0"
        xlink:href="#g26427"
        id="use26443"
-       transform="translate(-1.7345257e-8,82.719903)"
+       transform="translate(-1.7345257e-8,74.719903)"
        width="100%"
        height="100%" />
     <use
@@ -2170,15 +2155,31 @@ oAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAP/9k=
        y="0"
        xlink:href="#g26427"
        id="use5715"
-       transform="translate(1.483765,168.40733)"
+       transform="translate(1.483765,150.40733)"
        width="100%"
        height="100%" />
     <use
-       transform="translate(10.654547,227.25155)"
+       transform="translate(10.654547,239.25155)"
        x="0"
        y="0"
        xlink:href="#g24430"
        id="use5969"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g26427"
+       id="use4953"
+       transform="translate(0,228)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g26427"
+       id="use4955"
+       transform="translate(0,304)"
        width="100%"
        height="100%" />
   </g>
