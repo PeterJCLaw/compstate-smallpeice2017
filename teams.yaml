@@ -27,5 +27,5 @@ teams:
     name: Darren
     rookie: true
   T10:
-    name: 'self.robot has crashed'
+    name: Crashbot 9000 sponsored by Darren
     rookie: true
