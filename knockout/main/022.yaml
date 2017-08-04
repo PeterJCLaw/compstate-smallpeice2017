@@ -1,0 +1,13 @@
+arena_id: main
+match_number: 22
+teams:
+  T09:
+    disqualified: false
+    events: C
+    present: true
+    zone: 0
+  T10:
+    disqualified: false
+    events: CCC
+    present: true
+    zone: 1
