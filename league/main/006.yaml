@@ -1,0 +1,13 @@
+arena_id: main
+match_number: 6
+teams:
+  T07:
+    disqualified: false
+    events: UBCB
+    present: true
+    zone: 0
+  T09:
+    disqualified: false
+    events: CUU
+    present: true
+    zone: 1
