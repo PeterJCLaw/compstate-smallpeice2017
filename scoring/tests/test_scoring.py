@@ -24,6 +24,7 @@ TESTS = (
     ('BUCCD', 2),
     ('CB', 1),
     ('CCB', 2),
+    ('UC', 3),
     ('UCBCBCBCBC', 3),
 )
 
