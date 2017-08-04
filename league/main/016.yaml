@@ -1,0 +1,13 @@
+arena_id: main
+match_number: 16
+teams:
+  T03:
+    disqualified: false
+    events: C
+    present: true
+    zone: 1
+  T07:
+    disqualified: false
+    events: UCUC
+    present: true
+    zone: 0
