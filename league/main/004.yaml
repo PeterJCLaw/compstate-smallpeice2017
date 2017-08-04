@@ -2,7 +2,7 @@ arena_id: main
 match_number: 4
 teams:
   T01:
-    disqualified: false
+    disqualified: true
     events: C
     present: true
     zone: 1
