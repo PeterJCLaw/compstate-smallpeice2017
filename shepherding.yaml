@@ -1,4 +1,4 @@
 shepherds:
   - name: 'Shepherd'
-    colour: 'black'
+    colour: 'white'
     regions: [the-cube]
